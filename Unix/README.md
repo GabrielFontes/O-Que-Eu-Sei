@@ -1,4 +1,8 @@
 # **Unix - Shell**
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0fc24643aa1a58ee0a1ceec7ec52affde931557e
 O Unix é um **sistema operacional** multi-tarefa. Denomidado por alguns como: "O pai de todos os sistemas operacionais". Vários outros sistemas operacionais utilizam o Unix como **padrão**. Um exemplo disso, é o Linux.
 
 ## **Características do UNIX**
