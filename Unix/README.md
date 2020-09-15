@@ -31,6 +31,7 @@ O sistema de arquivos descreve o tipo e a organização dos dados gravados no di
 -  /**etc**: Guarda os arquivos de **configurações** do sistema;
 -  /**lib**: Guarda as **bibliotecas** necessárias para os comandos presentes no /bin e /sbin;
 -  /**mnt**: Guarda as **partições** de dispositivos instalados;
+-  /**usr**/**include**: Guarda, geralmente, arquivos de interface;
 -  /**opt**: Guarda **pacotes** não oficiais da distro;
 -  /**dev**: Arquivos de entrada e saída;
 -  /**usr**: Hierarquia secundária disponibilizada para todos os usuários;
