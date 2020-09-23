@@ -136,5 +136,3 @@ Prezad(o) ___ Recheio ___,
 - E na área de ___ Nome da pessoa influente ___, você está precisando de algum serviço?
 - Ah, beleza! Não esqueça de mim quando precisar! 
 ```
-
-# Proposta
