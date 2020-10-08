@@ -33,3 +33,11 @@ Alguns comandos e distribuição dos arquivos
 ## [Criptografia](Criptografia)
 
 Conceitos básicos de criptografia
+
+## [Vendas](Vendas)
+
+Conceitos básico e definições pessoais sobre o processo de venda B2B
+
+## [Bilingue](Bilingue)
+
+Resumos de alguns tópicos que tenho usado para aprimorar minha leitura em inglês
