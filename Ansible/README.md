@@ -1,6 +1,14 @@
 # Ansible
 De forma não técnica, assim como uma orquestra necessita de um maestro para guiá-la, as máquinas monitoradas precisam de uma máquina “Mestre” (Ansible-server) e uma das formas de se fazer isso, é através do Ansible.
 
+Começarei a escrever o que aprendi sobre o Ansible com o intuito de concretizar e melhorar meu conhecimento. A ideia é apresentar o conhecimento sobre a ferramenta de forma simples. Discorrerei sobre **as minhas conclusões** a partir da leitura da documentação e projetos práticos que fiz.
+
+**Obs.:** Não tome tudo que está escrito aqui como verdade. Questione, busque confirmar o que você leu. Lembre-se, a interpretação não é uma ciência exata.
+
+
+![Redes Sociais](Imagem/credencial.png)
+
+
 ## **O'que é ansible?**
 É uma ferramenta de **orquestração** de dispositivos/servidores que usa a linguagem **YAML**.
 
@@ -45,11 +53,10 @@ Irei explicá-los:
 
 Somente os hosts aqui citados podem ser referenciados no Playbook (normalmente em forma de grupos)
 
-## **Role**
+## **Roles**
 
-- **Diretório**;
+- **Diretórios com subdiretórios**;
 - Contém as tarefas que serão executadas.
-
 
 ## **Tasks**
 
@@ -89,7 +96,7 @@ Por último, gostaria de falar sobre uma 'seção' do playbook. A seção "**var
 ## **Comandos**
 - Rodando um playbook
 ```
-ansible-playbook -i <hosts> <projeto.yml>
+ansible-playbook -i <hosts> <playbook.yml>
 ```
 
 - Rodando um playbook em um host usando outra porta:
@@ -117,4 +124,4 @@ obs.: Possibilita a execução específica de uma parte da role e auxilia na org
 ![Blocos](Imagem/Bloco.png)
 
 
-Mais exemplos podem ser encontrados no meu repositório do [gitlab](https://gitlab.com/GabrielFontes/estagio/tree/master/roles)
+Mais exemplos de roles podem ser encontrados no meu repositório do [gitlab](https://gitlab.com/GabrielFontes/estagio/-/tree/master/Ansible/roles)
