@@ -122,6 +122,3 @@ obs.: Possibilita a execução específica de uma parte da role e auxilia na org
 
 - Podemos usar '**Blocos**' de tasks.\
 ![Blocos](Imagem/Bloco.png)
-
-
-Mais exemplos de roles podem ser encontrados no meu repositório do [gitlab](https://gitlab.com/GabrielFontes/estagio/-/tree/master/Ansible/roles)
